@@ -17,7 +17,7 @@ contributor:
     url: http://www.gutenberg.org/2009/agents/38087
   - agent_name: Beatty, Erkuries
     birthdate: 1759
-    deathdate: &id001 1823
+    deathdate: 1823
     gutenberg_agent_id: '41322'
     url: http://www.gutenberg.org/2009/agents/41322
 covers:
@@ -32,11 +32,13 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36009
   editor:
     agent_name: Clark, John S.
-    birthdate: *id001
+    birthdate: 1823
     deathdate: 1912
     gutenberg_agent_id: '36010'
     url: http://www.gutenberg.org/2009/agents/36010
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32733#The-Journal-of-Lieut.-John-L.-Hardenbergh-of-the-Second-New-York-Continental-Regiment-from-Ma_
 gutenberg_issued: '2010-06-07'
 gutenberg_type: Text
 identifiers:
