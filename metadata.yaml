@@ -1,0 +1,60 @@
+_repo: The-Journal-of-Lieut.-John-L.-Hardenbergh-of-the-Second-New-York-Continental-Regiment-from-Ma__32733
+_version: 0.1.0
+contributor:
+  contributors:
+  - agent_name: Hawley, Charles
+    birthdate: 1819
+    deathdate: 1885
+    gutenberg_agent_id: '6183'
+    url: http://www.gutenberg.org/2009/agents/6183
+  - agent_name: Dearborn, Henry
+    birthdate: 1751
+    deathdate: 1829
+    gutenberg_agent_id: '42399'
+    url: http://www.gutenberg.org/2009/agents/42399
+  - agent_name: Grant, Thomas, active 1779
+    gutenberg_agent_id: '38087'
+    url: http://www.gutenberg.org/2009/agents/38087
+  - agent_name: Beatty, Erkuries
+    birthdate: 1759
+    deathdate: &id001 1823
+    gutenberg_agent_id: '41322'
+    url: http://www.gutenberg.org/2009/agents/41322
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hardenbergh, John Leonard
+    birthdate: 1748
+    deathdate: 1806
+    gutenberg_agent_id: '36009'
+    url: http://www.gutenberg.org/2009/agents/36009
+  editor:
+    agent_name: Clark, John S.
+    birthdate: *id001
+    deathdate: 1912
+    gutenberg_agent_id: '36010'
+    url: http://www.gutenberg.org/2009/agents/36010
+description: ''
+gutenberg_issued: '2010-06-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32733'
+  lccn: '01014066'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Revolution, 1775-1783 -- Personal narratives'
+- !lcc 'E201'
+- !lcsh 'Sullivan''s Indian Campaign, 1779'
+- !lcc 'F106'
+title: 'The Journal of Lieut. John L. Hardenbergh of the Second New York Continental
+  Regiment from May 1 to October 3, 1779, in General Sullivan''s Campaign Against
+  the Western Indians
+
+  With an Introduction, Copious Historical Notes, and Maps of the Battle-field of
+  Newtown and Groveland Ambuscade'
+url: http://www.gutenberg.org/ebooks/32733
